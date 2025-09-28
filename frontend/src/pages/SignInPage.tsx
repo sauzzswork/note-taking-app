@@ -86,7 +86,7 @@ const SignInPage = () => {
         <p className="text-center text-gray-500 mt-7">
           Need an account?{' '}
           <a
-            href="http://localhost:5173"
+            href="https://note-taking-gsuijzjwd-saurav-mishras-projects.vercel.app/"
             className="text-blue-600 hover:underline"
             
           >
